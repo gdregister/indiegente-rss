@@ -3,15 +3,18 @@
   <channel>
     <title>Indiegente</title>
     <link>https://www.rtp.pt/play/p257/indiegente</link>
+    <atom:link href="https://gdregister.github.io/indiegente-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</description>
     <language>pt-PT</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:59:49 +0000</lastBuildDate>
     <itunes:author>Nuno Calado · Antena 3 (RTP)</itunes:author>
     <itunes:summary>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</itunes:summary>
+    <itunes:owner><itunes:name>Nuno Calado · Antena 3 (RTP)</itunes:name></itunes:owner>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Music"/>
-    <itunes:image href="https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png?w=1400"/>
-    <image><url>https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png?w=1400</url><title>Indiegente</title><link>https://www.rtp.pt/play/p257/indiegente</link></image>
+    <itunes:image href="https://gdregister.github.io/indiegente-rss/cover.jpg"/>
+    <image><url>https://gdregister.github.io/indiegente-rss/cover.jpg</url><title>Indiegente</title><link>https://www.rtp.pt/play/p257/indiegente</link></image>
     <item>
       <title>Indiegente – 10/11/2026</title>
       <description>inclui entre outros Liquid Mike, Twisted Teens, Monsters, Spitters, Wild Billy Childs.....</description>

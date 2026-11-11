@@ -32,6 +32,8 @@ DESCRIPTION = (
     "(Feed não oficial gerado a partir do RTP Play.)"
 )
 MAX_EPISODES = 300
+FEED_URL = "https://gdregister.github.io/indiegente-rss/feed.xml"
+COVER_URL = "https://gdregister.github.io/indiegente-rss/cover.jpg"  # imagem quadrada 1400x1400
 HERE = Path(__file__).resolve().parent
 DB = HERE / "episodes.json"
 OUT = HERE / "feed.xml"
@@ -131,11 +133,14 @@ def build_feed(episodes, image):
   <channel>
     <title>{escape(TITLE)}</title>
     <link>{PROGRAM_URL}</link>
+    <atom:link href="{FEED_URL}" rel="self" type="application/rss+xml"/>
     <description>{escape(DESCRIPTION)}</description>
     <language>pt-PT</language>
     <lastBuildDate>{now}</lastBuildDate>
     <itunes:author>{escape(AUTHOR)}</itunes:author>
     <itunes:summary>{escape(DESCRIPTION)}</itunes:summary>
+    <itunes:owner><itunes:name>{escape(AUTHOR)}</itunes:name></itunes:owner>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Music"/>
     <itunes:image href="{escape(image)}"/>
@@ -191,7 +196,7 @@ def main():
     # Ordena do mais recente para o mais antigo (desempata pelo id do episódio).
     episodes = sorted(known.values(), key=lambda e: (e["pubdate"], int(e["id"])), reverse=True)[:MAX_EPISODES]
     db["episodes"] = episodes
-    image = (db.get("image") or "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png") + "?w=1400"
+    image = COVER_URL
 
     DB.write_text(json.dumps(db, ensure_ascii=False, indent=1))
     OUT.parent.mkdir(exist_ok=True)
