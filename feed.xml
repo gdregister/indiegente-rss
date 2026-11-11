@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indiegente</title>
+    <link>https://www.rtp.pt/play/p257/indiegente</link>
+    <description>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</description>
+    <language>pt-PT</language>
+    <lastBuildDate>Wed, 11 Nov 2026 16:18:33 +0000</lastBuildDate>
+    <itunes:author>Nuno Calado · Antena 3 (RTP)</itunes:author>
+    <itunes:summary>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png?w=1400"/>
+    <image><url>https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png?w=1400</url><title>Indiegente</title><link>https://www.rtp.pt/play/p257/indiegente</link></image>
+    <item>
+      <title>Indiegente – 10/11/2026</title>
+      <description>inclui entre outros Liquid Mike, Twisted Teens, Monsters, Spitters, Wild Billy Childs.....</description>
+      <itunes:summary>inclui entre outros Liquid Mike, Twisted Teens, Monsters, Spitters, Wild Billy Childs.....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e966333/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e966333</guid>
+      <pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021201_609360-1073-2611091156.mp3" length="56813568" type="audio/mpeg"/>
+      <itunes:duration>00:59:10</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 09/11/2026</title>
+      <description>Inclui entre outros Morphine, Tindersticks, King Dude, Chelsea Wolfe, Liars...</description>
+      <itunes:summary>Inclui entre outros Morphine, Tindersticks, King Dude, Chelsea Wolfe, Liars...</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e965958/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e965958</guid>
+      <pubDate>Mon, 09 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021101_609181-1073-2611061954.mp3" length="56827392" type="audio/mpeg"/>
+      <itunes:duration>00:59:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 06/11/2026</title>
+      <description>Inclui entre outros Anarchicks, Gurriers, Linda Martini, Dead Kennedys, Sonic Youth....</description>
+      <itunes:summary>Inclui entre outros Anarchicks, Gurriers, Linda Martini, Dead Kennedys, Sonic Youth....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e964704/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e964704</guid>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021001_608417-1073-2611020947.mp3" length="56188800" type="audio/mpeg"/>
+      <itunes:duration>00:58:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 05/11/2026</title>
+      <description>Inclui entre outros Wild Billy Childish, The Monsters, The Spitters, , Ty Segall, Bobby Lees....</description>
+      <itunes:summary>Inclui entre outros Wild Billy Childish, The Monsters, The Spitters, , Ty Segall, Bobby Lees....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e964705/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e964705</guid>
+      <pubDate>Thu, 05 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402020901_608416-1073-2611020947.mp3" length="56109312" type="audio/mpeg"/>
+      <itunes:duration>00:58:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 04/11/2026</title>
+      <description>Inclui entre outros Tindersticks, Lambchop + MJ Lenderman, EmmaRuth Rundle, Flaming Lips, Yeah Yeah Yeahs.....</description>
+      <itunes:summary>Inclui entre outros Tindersticks, Lambchop + MJ Lenderman, EmmaRuth Rundle, Flaming Lips, Yeah Yeah Yeahs.....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e964699/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e964699</guid>
+      <pubDate>Wed, 04 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402020801_608415-1073-2611020944.mp3" length="56068224" type="audio/mpeg"/>
+      <itunes:duration>00:58:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 03/11/2026</title>
+      <description>Inclui entre outros Queens of the Stone Age, Keg, Keo, Dinosaur Jr, Overdoses....</description>
+      <itunes:summary>Inclui entre outros Queens of the Stone Age, Keg, Keo, Dinosaur Jr, Overdoses....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e964700/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e964700</guid>
+      <pubDate>Tue, 03 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402020701_608414-1073-2611020944.mp3" length="56844288" type="audio/mpeg"/>
+      <itunes:duration>00:59:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 02/11/2026 · Entrevista com Meryl Streek</title>
+      <description>Entrevista com Meryl Streek</description>
+      <itunes:summary>Entrevista com Meryl Streek</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e964701/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e964701</guid>
+      <pubDate>Mon, 02 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402020601_608413-1073-2611020944.mp3" length="56846208" type="audio/mpeg"/>
+      <itunes:duration>00:59:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 30/10/2026</title>
+      <description>Inclui entre outros Flaming Lips, Sonic Youth, Nirvana, Idles, Radiohead....</description>
+      <itunes:summary>Inclui entre outros Flaming Lips, Sonic Youth, Nirvana, Idles, Radiohead....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e963708/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e963708</guid>
+      <pubDate>Fri, 30 Oct 2026 21:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2610/PGM2600402020501_607839-1073-2610281253.mp3" length="55368960" type="audio/mpeg"/>
+      <itunes:duration>00:57:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 29/10/2026</title>
+      <description>Inclui entre outros Eric Harm, Dinosaur Jr., Jordan Burgett, Boy Harsher, Trentemoller....</description>
+      <itunes:summary>Inclui entre outros Eric Harm, Dinosaur Jr., Jordan Burgett, Boy Harsher, Trentemoller....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e963696/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e963696</guid>
+      <pubDate>Thu, 29 Oct 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2610/PGM2600402020401_607830-1073-2610281203.mp3" length="56985216" type="audio/mpeg"/>
+      <itunes:duration>00:59:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 28/10/2026</title>
+      <description>Inclui entre outros Flaming Lips, Yeah Yeah Yeahs, Amyl and the Sniffers, Smile, Chalk...</description>
+      <itunes:summary>Inclui entre outros Flaming Lips, Yeah Yeah Yeahs, Amyl and the Sniffers, Smile, Chalk...</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e963697/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e963697</guid>
+      <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2610/PGM2600402020301_607829-1073-2610281203.mp3" length="55115904" type="audio/mpeg"/>
+      <itunes:duration>00:57:24</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 27/10/2026</title>
+      <description>Inclui entre outros Tom Morello+Kneecap, Meryl Streek, Mães Solteiras, Lambrini Girls, Anarchicks....</description>
+      <itunes:summary>Inclui entre outros Tom Morello+Kneecap, Meryl Streek, Mães Solteiras, Lambrini Girls, Anarchicks....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e963313/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e963313</guid>
+      <pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2610/PGM2600402020201_607610-1073-2610261801.mp3" length="57072768" type="audio/mpeg"/>
+      <itunes:duration>00:59:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Indiegente – 27/10/2026</title>
+      <description>Indiegente</description>
+      <itunes:summary>Indiegente</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e962817/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e962817</guid>
+      <pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2610/PGM2600402020101_607369-1073-2610232001.mp3" length="56155776" type="audio/mpeg"/>
+      <itunes:duration>00:58:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
