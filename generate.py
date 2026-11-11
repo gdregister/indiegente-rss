@@ -24,7 +24,8 @@ PROGRAM_ID = "257"
 PROGRAM_URL = f"https://www.rtp.pt/play/p{PROGRAM_ID}/indiegente"
 BASE = "https://www.rtp.pt"
 TITLE = "Indiegente"
-AUTHOR = "Nuno Calado · Antena 3 (RTP)"
+AUTHOR = "Nuno Calado - Antena 3"
+OWNER_EMAIL = "gdregister@users.noreply.github.com"
 DESCRIPTION = (
     "Nuno Calado apresenta o som mais alternativo e atual da rádio. "
     "Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, "
@@ -110,17 +111,20 @@ def build_feed(episodes, image):
     items = []
     for e in episodes:
         dt = datetime.fromisoformat(e["pubdate"])
-        title = f"{TITLE} – {dt.strftime('%d/%m/%Y')}"
+        title = f"{TITLE} - {dt.strftime('%d/%m/%Y')}"
         if e.get("description"):
             short = e["description"].rstrip(". ")
             if not short.lower().startswith("inclui entre outros"):
                 title += f" · {short[:80]}"
         desc = e.get("description") or TITLE
-        dur = f"\n      <itunes:duration>{hms(e['duration_s'])}</itunes:duration>" if e.get("duration_s") else ""
+        dur = f"\n      <itunes:duration>{e['duration_s']}</itunes:duration>" if e.get("duration_s") else ""
         items.append(f"""    <item>
       <title>{escape(title)}</title>
+      <itunes:title>{escape(title)}</itunes:title>
       <description>{escape(desc)}</description>
-      <itunes:summary>{escape(desc)}</itunes:summary>
+      <content:encoded><![CDATA[<p>{escape(desc)}</p>]]></content:encoded>
+      <itunes:author>{escape(AUTHOR)}</itunes:author>
+      <itunes:image href="{escape(image)}"/>
       <link>{escape(e['url'])}</link>
       <guid isPermaLink="false">rtp-play-e{e['id']}</guid>
       <pubDate>{format_datetime(dt)}</pubDate>
@@ -129,19 +133,19 @@ def build_feed(episodes, image):
     </item>""")
     now = format_datetime(datetime.now(LISBON))
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{escape(TITLE)}</title>
     <link>{PROGRAM_URL}</link>
     <atom:link href="{FEED_URL}" rel="self" type="application/rss+xml"/>
     <description>{escape(DESCRIPTION)}</description>
-    <language>pt-PT</language>
+    <language>pt</language>
     <lastBuildDate>{now}</lastBuildDate>
     <itunes:author>{escape(AUTHOR)}</itunes:author>
     <itunes:summary>{escape(DESCRIPTION)}</itunes:summary>
-    <itunes:owner><itunes:name>{escape(AUTHOR)}</itunes:name></itunes:owner>
+    <itunes:owner><itunes:name>{escape(AUTHOR)}</itunes:name><itunes:email>{OWNER_EMAIL}</itunes:email></itunes:owner>
     <itunes:type>episodic</itunes:type>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Music"/>
     <itunes:image href="{escape(image)}"/>
     <image><url>{escape(image)}</url><title>{escape(TITLE)}</title><link>{PROGRAM_URL}</link></image>
