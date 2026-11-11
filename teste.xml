@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indiegente TESTE</title>
+    <link>https://www.rtp.pt/play/p257/indiegente</link>
+    <atom:link href="https://gdregister.github.io/indiegente-rss/teste.xml" rel="self" type="application/rss+xml"/>
+    <description>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</description>
+    <language>pt-PT</language>
+    <lastBuildDate>Wed, 11 Nov 2026 17:12:45 +0000</lastBuildDate>
+    <itunes:author>Nuno Calado · Antena 3 (RTP)</itunes:author>
+    <itunes:summary>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</itunes:summary>
+    <itunes:owner><itunes:name>Nuno Calado · Antena 3 (RTP)</itunes:name></itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://gdregister.github.io/indiegente-rss/cover.jpg"/>
+    <image><url>https://gdregister.github.io/indiegente-rss/cover.jpg</url><title>Indiegente</title><link>https://www.rtp.pt/play/p257/indiegente</link></image>
+    <item>
+      <title>Indiegente – 10/11/2026</title>
+      <description>inclui entre outros Liquid Mike, Twisted Teens, Monsters, Spitters, Wild Billy Childs.....</description>
+      <itunes:summary>inclui entre outros Liquid Mike, Twisted Teens, Monsters, Spitters, Wild Billy Childs.....</itunes:summary>
+      <link>https://www.rtp.pt/play/p257/e966333/indiegente</link>
+      <guid isPermaLink="false">rtp-play-eteste1</guid>
+      <pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/f175b1e3-ecc7-4dc5-8307-b3aa008ffd8a/236ecb80-0698-4af1-8dda-b40300f6c166/a48cd249-1d27-47f8-9a31-b4ff00a371bb/audio.mp3" length="2198050" type="audio/mpeg"/>
+      <itunes:duration>00:02:17</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
