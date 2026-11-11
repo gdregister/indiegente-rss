@@ -34,7 +34,7 @@ DESCRIPTION = (
 MAX_EPISODES = 300
 HERE = Path(__file__).resolve().parent
 DB = HERE / "episodes.json"
-OUT = HERE / "docs" / "feed.xml"
+OUT = HERE / "feed.xml"
 LISBON = ZoneInfo("Europe/Lisbon")
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36"
 
