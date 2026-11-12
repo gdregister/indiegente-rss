@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "966332",
+   "url": "https://www.rtp.pt/play/p257/e966332/indiegente",
+   "pubdate": "2026-11-11T23:00:00+00:00",
+   "description": "Entrevista Anarchicks",
+   "duration_s": 3500,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021301_609361-1073-2611091156.mp3",
+   "length": 56010240
+  },
+  {
    "id": "966333",
    "url": "https://www.rtp.pt/play/p257/e966333/indiegente",
    "pubdate": "2026-11-10T23:00:00+00:00",
