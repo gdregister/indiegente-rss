@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "966331",
+   "url": "https://www.rtp.pt/play/p257/e966331/indiegente",
+   "pubdate": "2026-11-12T23:00:00+00:00",
+   "description": "inclui entre outros Flaming Lips, Lambrini Grils, Bleech 9:3, Terrible Mistake, Rip Magic....",
+   "duration_s": 3571,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021401_609362-1073-2611091156.mp3",
+   "length": 57148416
+  },
+  {
    "id": "966332",
    "url": "https://www.rtp.pt/play/p257/e966332/indiegente",
    "pubdate": "2026-11-11T23:00:00+00:00",
