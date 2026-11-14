@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "966330",
+   "url": "https://www.rtp.pt/play/p257/e966330/indiegente",
+   "pubdate": "2026-11-13T21:00:00+00:00",
+   "description": "inclui entre outros  Anarchicks, Morphine, Fontaines DC, Clash, Queens of the Stone Age, Cat Power ....",
+   "duration_s": 3441,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021501_609363-1073-2611091156.mp3",
+   "length": 55067136
+  },
+  {
    "id": "966331",
    "url": "https://www.rtp.pt/play/p257/e966331/indiegente",
    "pubdate": "2026-11-12T23:00:00+00:00",
