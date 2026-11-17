@@ -6,7 +6,7 @@
     <atom:link href="https://gdregister.github.io/indiegente-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:47:19 +0000</lastBuildDate>
     <itunes:author>Nuno Calado - Antena 3</itunes:author>
     <itunes:summary>Nuno Calado apresenta o som mais alternativo e atual da rádio. Na Antena 3, de segunda a quinta-feira, entre as 23h e as 24h, e edição Gold à sexta-feira, entre as 21h e as 23h. (Feed não oficial gerado a partir do RTP Play.)</itunes:summary>
     <itunes:owner><itunes:name>Nuno Calado - Antena 3</itunes:name><itunes:email>gdregister@users.noreply.github.com</itunes:email></itunes:owner>
@@ -15,6 +15,20 @@
     <itunes:category text="Music"/>
     <itunes:image href="https://gdregister.github.io/indiegente-rss/cover.jpg"/>
     <image><url>https://gdregister.github.io/indiegente-rss/cover.jpg</url><title>Indiegente</title><link>https://www.rtp.pt/play/p257/indiegente</link></image>
+    <item>
+      <title>Indiegente - 16/11/2026 · Entrevista ao Snayx</title>
+      <itunes:title>Indiegente - 16/11/2026 · Entrevista ao Snayx</itunes:title>
+      <description>Entrevista ao Snayx</description>
+      <content:encoded><![CDATA[<p>Entrevista ao Snayx</p>]]></content:encoded>
+      <itunes:author>Nuno Calado - Antena 3</itunes:author>
+      <itunes:image href="https://gdregister.github.io/indiegente-rss/cover.jpg"/>
+      <link>https://www.rtp.pt/play/p257/e967947/indiegente</link>
+      <guid isPermaLink="false">rtp-play-e967947</guid>
+      <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021601_610358-1073-2611161124.mp3" length="55821696" type="audio/mpeg"/>
+      <itunes:duration>3488</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Indiegente - 13/11/2026</title>
       <itunes:title>Indiegente - 13/11/2026</itunes:title>

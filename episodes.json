@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "967947",
+   "url": "https://www.rtp.pt/play/p257/e967947/indiegente",
+   "pubdate": "2026-11-16T23:00:00+00:00",
+   "description": "Entrevista ao Snayx",
+   "duration_s": 3488,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021601_610358-1073-2611161124.mp3",
+   "length": 55821696
+  },
+  {
    "id": "966330",
    "url": "https://www.rtp.pt/play/p257/e966330/indiegente",
    "pubdate": "2026-11-13T21:00:00+00:00",
