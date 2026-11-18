@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "967952",
+   "url": "https://www.rtp.pt/play/p257/e967952/indiegente",
+   "pubdate": "2026-11-17T23:00:00+00:00",
+   "description": "inclui entre outros Madra Salach, Anarchicks, Feet, Bobby Lees, Snayx, Meryl Streek...",
+   "duration_s": 3545,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021701_610359-1073-2611161127.mp3",
+   "length": 56729472
+  },
+  {
    "id": "967947",
    "url": "https://www.rtp.pt/play/p257/e967947/indiegente",
    "pubdate": "2026-11-16T23:00:00+00:00",
