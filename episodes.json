@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "967950",
+   "url": "https://www.rtp.pt/play/p257/e967950/indiegente",
+   "pubdate": "2026-11-18T23:00:00+00:00",
+   "description": "inclui entre outros New Order, Depeche Mode, Sonic Youth, Rollins Band, Flaming Lips.....",
+   "duration_s": 3558,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021801_610361-1073-2611161127.mp3",
+   "length": 56930304
+  },
+  {
    "id": "967952",
    "url": "https://www.rtp.pt/play/p257/e967952/indiegente",
    "pubdate": "2026-11-17T23:00:00+00:00",
