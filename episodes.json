@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "967949",
+   "url": "https://www.rtp.pt/play/p257/e967949/indiegente",
+   "pubdate": "2026-11-19T23:00:00+00:00",
+   "description": "Tom A. Smith, Madra Salach, Bobby Lees, Lambrini Girls, Niis....",
+   "duration_s": 3466,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402021901_610362-1073-2611161127.mp3",
+   "length": 55462656
+  },
+  {
    "id": "967950",
    "url": "https://www.rtp.pt/play/p257/e967950/indiegente",
    "pubdate": "2026-11-18T23:00:00+00:00",
