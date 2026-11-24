@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "969527",
+   "url": "https://www.rtp.pt/play/p257/e969527/indiegente",
+   "pubdate": "2026-11-23T23:00:00+00:00",
+   "description": "Entrevista com os Avesso",
+   "duration_s": 3565,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402022101_611324-1073-2611231202.mp3",
+   "length": 57043968
+  },
+  {
    "id": "967948",
    "url": "https://www.rtp.pt/play/p257/e967948/indiegente",
    "pubdate": "2026-11-20T21:00:00+00:00",
