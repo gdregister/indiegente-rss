@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "969530",
+   "url": "https://www.rtp.pt/play/p257/e969530/indiegente",
+   "pubdate": "2026-11-24T23:00:00+00:00",
+   "description": "Inclui entre outros Van Goose, Station Model Violence, Madra Salach, Squid, Maruja....",
+   "duration_s": 3475,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402022201_611327-1073-2611231205.mp3",
+   "length": 55614336
+  },
+  {
    "id": "969527",
    "url": "https://www.rtp.pt/play/p257/e969527/indiegente",
    "pubdate": "2026-11-23T23:00:00+00:00",
