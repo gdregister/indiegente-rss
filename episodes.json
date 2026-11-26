@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "969528",
+   "url": "https://www.rtp.pt/play/p257/e969528/indiegente",
+   "pubdate": "2026-11-25T23:00:00+00:00",
+   "description": "Inclui entre outros. Real Sunnies, Crisis Actor, Touché Amouré, Reclus.è, The Garden ....",
+   "duration_s": 3535,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402022301_611329-1073-2611231205.mp3",
+   "length": 56560896
+  },
+  {
    "id": "969530",
    "url": "https://www.rtp.pt/play/p257/e969530/indiegente",
    "pubdate": "2026-11-24T23:00:00+00:00",
