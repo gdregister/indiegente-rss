@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "969531",
+   "url": "https://www.rtp.pt/play/p257/e969531/indiegente",
+   "pubdate": "2026-11-27T21:00:00+00:00",
+   "description": "Inclui entre outros Kristin Hersh, R.E.M., The Smiths, Stone Roses, Echo & The Bunnyman, Linda Martini....",
+   "duration_s": 3604,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402022501_611331-1073-2611231208.mp3",
+   "length": 57677184
+  },
+  {
    "id": "969532",
    "url": "https://www.rtp.pt/play/p257/e969532/indiegente",
    "pubdate": "2026-11-26T23:00:00+00:00",
