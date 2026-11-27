@@ -2,6 +2,15 @@
  "image": "https://cdn-images.rtp.pt/EPG/radio/imagens/1073_13610_55092.png",
  "episodes": [
   {
+   "id": "969532",
+   "url": "https://www.rtp.pt/play/p257/e969532/indiegente",
+   "pubdate": "2026-11-26T23:00:00+00:00",
+   "description": "Inclui entre outros Weird Nightmares, dEUS, Morphine, Avesso, Maruja....",
+   "duration_s": 3583,
+   "mp3": "https://cdn-ondemand.rtp.pt/nas2.share/wavrss/at3/2611/PGM2600402022401_611330-1073-2611231208.mp3",
+   "length": 57332736
+  },
+  {
    "id": "969528",
    "url": "https://www.rtp.pt/play/p257/e969528/indiegente",
    "pubdate": "2026-11-25T23:00:00+00:00",
